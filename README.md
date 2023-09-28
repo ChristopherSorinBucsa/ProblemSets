@@ -1,1 +1,2 @@
-# ProblemSets
+<h1>Description</h1>
+  In this section, you will find various hand-written solutions to different sets of problems relating to network analysis.  My goal here is to give you an understanding to my though process.  These problem sets cover a wide range of topics including: the building blocks of networks, node degree, link indicators, network formulas, adjacency matrices, histograms of node degrees, paths in networks, and  triangles/v-shapes and clustering in networks.
